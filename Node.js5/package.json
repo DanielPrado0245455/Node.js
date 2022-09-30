@@ -1,0 +1,15 @@
+{
+  "name": "superheroes_supervillains",
+  "version": "1.0.0",
+  "description": "Advertise the battle of the century between a random super heroe and his nemesis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.1.0"
+  }
+}

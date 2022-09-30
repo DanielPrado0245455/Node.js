@@ -1,0 +1,22 @@
+{
+  "name": "superheroes",
+  "version": "3.0.0",
+  "description": "this is for the names of superheroes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/superheroes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/superheroes/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/superheroes#readme",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
